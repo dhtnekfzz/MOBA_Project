@@ -11,7 +11,7 @@ Gameplay Ability System(GAS), AI, 네트워크 리플리케이션, MVVM 기반 U
 |------|------|
 | **엔진** | Unreal Engine 5.6 |
 | **언어** | C++ |
-| **주요 플러그인** | GameplayAbilities, CommonUI, ModelViewViewModel, EnhancedInput |
+| **주요 플러그인** | GameplayAbilities, CommonUI, ModelViewViewModel, EnhancedInput, OnlineSubsystem |
 
 ---
 
